@@ -115,8 +115,9 @@ header .textos-header{
 
 .contenido-textos p{
     padding: 0px 0px 30px 15px;
-    font-weight: 500;
-    font-size: 12px;
+    font-family: Calibri;
+    font-weight: 600;
+    font-size: 14px;
     text-align: justify;
 }
 
@@ -206,7 +207,7 @@ header .textos-header{
 .cards .card > .contenido-texto-card p{
     font-weight: 200;
     padding-top: 10px;
-    font-family: Arial;
+    font-family: Calibri;
 }
 
 /*our team*/
@@ -238,7 +239,8 @@ header .textos-header{
 }
 
 .servicio-ind p{
-    font-weight: 300;
+    padding: 8px;
+    font-weight: 300px;
     text-align: justify;
 }
 
@@ -273,6 +275,10 @@ footer{
 
 .content-foo p{
     color: #ccc;
+    text-align: center;
+    font-family: Poppins;
+    padding: 8px;
+    justify-content: space-evenly;
 }
 
 .Titulo-final{
